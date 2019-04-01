@@ -13,18 +13,17 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 ## Contents:
 
-- **TensorFlow2.0_01_basic_Classification**:      implementation of a feed forward Classifier with simple full-Batch Gradient Descent.
+- **TensorFlow2.0_01_basic_Classifier**:  implementation of a feed forward Classifier with simple full-Batch Gradient Descent.
 
+- **TensorFlow2.0_02_MiniBatch_Gradient_Descent**:  implementation of Mini-Batch Gradient Descent.
 
 
 
 ## Coming Soon:
 
-- New version of the previous network, with implementation of Mini-Batch Gradient Descent.
-
 - Autoencoder for dimensionality reduction**:  how to reduce the dimensionality of a dataset with a stacked Autoencoder.
 
-- How to save and restore TensorFlow models.
+- How to save and restore models.
 
 - Regression tasks
 
