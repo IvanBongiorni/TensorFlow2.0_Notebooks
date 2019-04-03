@@ -10,7 +10,6 @@ Recently, Google released (the alpha version of) TensorFlow 2.0. As I'm trying t
 The training of models is based on TensorFlow's **eager execution** method. I'll try to minimize referencese to Keras.
 
 
-
 ## Contents:
 
 - **TensorFlow2.0_01_basic_Classifier**:  implementation of a feed forward Classifier with simple full-Batch Gradient Descent.
@@ -20,10 +19,19 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 - **TensorFlow2.0_03_Save_and_Restore_models**:  shows how to train a model, save it, then restore it and keep training.
 
 
-## Coming Soon:
+### WARNING:
+In this Notebook I will just skim through the main theoretical arguments related to Deep Learning. I will assume you already know what are thing like: dense/fully connected layers, gradient descent, dropout, regularization techniques, convolutional and pooling layers, auoencoders, ... you name it. It is mostly about models implementation, not about the theory behind them.
 
-- Autoencoder for dimensionality reduction**:  how to reduce the dimensionality of a dataset with a stacked Autoencoder.
 
+
+### Coming Soon:
+
+- Early stopping
+- Dynamic Learning Rate
 - Regression tasks
+- Use the TensorBoard
+- Run TensorFlow 2.0 on Google Colab
+- Autoencoder for dimensionality reduction
+- A basic Convolutional Neural Network
+- Denoising Autoencoder
 
-- Convolutional Neural Networks
