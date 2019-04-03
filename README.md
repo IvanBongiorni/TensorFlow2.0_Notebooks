@@ -20,7 +20,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 
 ### WARNING:
-In this Notebook I will just skim through the main theoretical arguments related to Deep Learning. I will assume you already know what are thing like: dense/fully connected layers, gradient descent, dropout, regularization techniques, convolutional and pooling layers, auoencoders, ... you name it. It is mostly about models implementation, not about the theory behind them.
+In this Notebook I will just skim through the main theoretical arguments related to Deep Learning. I will assume you already know of things like: dense/fully connected layers, gradient descent, dropout, regularization techniques, convolutional and pooling layers, autoencoders, ... you name it. It is mostly about models implementation, not about the theory behind them.
 
 
 
