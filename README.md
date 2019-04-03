@@ -18,6 +18,8 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 - **TensorFlow2.0_03_Save_and_Restore_models**:  shows how to train a model, save it, then restore it and keep training.
 
+- **TensorFlow2.0_03_Autoencoder_for_Dimensionality_Reduction**:  implementation of a stacked Autoencoder.
+
 
 ### WARNING:
 In this Notebook I will just skim through the main theoretical arguments related to Deep Learning. I will assume you already know of things like: dense/fully connected layers, gradient descent, dropout, regularization techniques, convolutional and pooling layers, autoencoders, ... you name it. It is mostly about models implementation, not about the theory behind them.
@@ -31,7 +33,6 @@ In this Notebook I will just skim through the main theoretical arguments related
 - Regression tasks
 - Use the TensorBoard
 - Run TensorFlow 2.0 on Google Colab
-- Autoencoder for dimensionality reduction
 - A basic Convolutional Neural Network
 - Denoising Autoencoder
 
