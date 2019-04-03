@@ -18,7 +18,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 - **TensorFlow2.0_03_Save_and_Restore_models**:  shows how to train a model, save it, then restore it and keep training.
 
-- **TensorFlow2.0_03_Autoencoder_for_Dimensionality_Reduction**:  implementation of a stacked Autoencoder.
+- **TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction**:  implementation of a stacked Autoencoder.
 
 
 ### WARNING:
