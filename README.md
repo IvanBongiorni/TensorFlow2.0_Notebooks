@@ -17,13 +17,12 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 - **TensorFlow2.0_02_MiniBatch_Gradient_Descent**:  implementation of Mini-Batch Gradient Descent.
 
+- **TensorFlow2.0_03_Save_and_Restore_models**:  shows how to train a model, save it, then restore it again and keep training.
 
 
 ## Coming Soon:
 
 - Autoencoder for dimensionality reduction**:  how to reduce the dimensionality of a dataset with a stacked Autoencoder.
-
-- How to save and restore models.
 
 - Regression tasks
 
