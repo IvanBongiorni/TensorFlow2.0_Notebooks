@@ -12,13 +12,13 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 ## Contents:
 
-- 01. [Basic Classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
+1. [Basic Classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
 
-- **TensorFlow2.0_02_MiniBatch_Gradient_Descent**:  implementation of Mini-Batch Gradient Descent.
+2. **TensorFlow2.0_02_MiniBatch_Gradient_Descent**:  implementation of Mini-Batch Gradient Descent.
 
-- **TensorFlow2.0_03_Save_and_Restore_models**:  shows how to train a model, save it, then restore it and keep training.
+3. **TensorFlow2.0_03_Save_and_Restore_models**:  shows how to train a model, save it, then restore it and keep training.
 
-- **TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction**:  implementation of a stacked Autoencoder.
+4. **TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction**:  implementation of a stacked Autoencoder.
 
 
 ### WARNING:
