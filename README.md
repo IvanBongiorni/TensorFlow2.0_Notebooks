@@ -14,11 +14,11 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 1. [Basic Classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
 
-2. **TensorFlow2.0_02_MiniBatch_Gradient_Descent**:  implementation of Mini-Batch Gradient Descent.
+2. [MiniBatch_Gradient_Descent] (https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_02_MiniBatch_Gradient_Descent.ipynb):  training a model with **Mini Batch Gradient Descent**.
 
-3. **TensorFlow2.0_03_Save_and_Restore_models**:  shows how to train a model, save it, then restore it and keep training.
+3. [Save and Restore models](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_03_Save_and_Restore_models.ipynb):  how to train a model, save it, then restore it and keep training.
 
-4. **TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction**:  implementation of a stacked Autoencoder.
+4. [Autoencoder for Dimensionality Reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked Autoencoder for dimensionality reduction of datasets.
 
 
 ### WARNING:
@@ -32,7 +32,6 @@ In this Notebook I will just skim through the main theoretical arguments related
 - Dynamic Learning Rate
 - Regression tasks
 - Use the TensorBoard
-- Run TensorFlow 2.0 on Google Colab
 - A basic Convolutional Neural Network
 - Denoising Autoencoder
 
