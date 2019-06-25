@@ -12,7 +12,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 ## Contents:
 
-- **TensorFlow2.0_01_basic_Classifier**:  implementation of a feed forward Classifier with simple full-Batch Gradient Descent.
+- 01. [Basic Classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
 
 - **TensorFlow2.0_02_MiniBatch_Gradient_Descent**:  implementation of Mini-Batch Gradient Descent.
 
