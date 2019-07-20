@@ -20,8 +20,9 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 4. [Autoencoder for Dimensionality Reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
 
-5. [Convolutional Neural Network](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_05_Convolutional_Neural_Network.ipynb): a basic Convolutional Neural Network for multiclass classification.
+5. [Convolutional Neural Network](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_05_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
 
+6. [Recurrent Neural Network](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_06_RNN_many2one.ipynb): implementation of a **many_to_one forecasting RNN**.
 
 ### WARNING:
 In this Notebook I will just skim through the main theoretical arguments related to Deep Learning. I will assume you already know of things like: dense/fully connected layers, gradient descent, dropout, regularization techniques, convolutional and pooling layers, autoencoders, ... you name it. It is mostly about models implementation, not about the theory behind them.
@@ -34,6 +35,10 @@ In this Notebook I will just skim through the main theoretical arguments related
 - Dynamic Learning Rate
 - Regression tasks
 - Use the TensorBoard
-- A basic Convolutional Neural Network
+
+- RNN - many-to-many
+- RNN - multivariate regressor
+
 - Denoising Autoencoder
+- Variational Autoencoder
 
