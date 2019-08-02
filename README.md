@@ -12,17 +12,47 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 ## Contents:
 
+**Basic feed forward stuff**:
+
 1. [Basic Classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
 
 2. [MiniBatch_Gradient_Descent](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_02_MiniBatch_Gradient_Descent.ipynb):  training a model with **Mini Batch Gradient Descent**.
 
 3. [Save and Restore models](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_03_Save_and_Restore_models.ipynb):  how to train a model, save it, then restore it and keep training.
 
-4. [Autoencoder for Dimensionality Reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
+---
 
-5. [Convolutional Neural Network](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_05_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
+**Autoencoders**:
 
-6. [Recurrent Neural Network](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_06_RNN_many2one.ipynb): implementation of a **many_to_one forecasting RNN**.
+1. [Autoencoder for Dimensionality Reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
+
+2. Denoising Autoencoder
+
+3. (see the convolutional Variational Autoencoder below)
+
+---
+
+**Convolutional Neural Networks**:
+
+1. [basic CNN classfifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_05_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
+
+2. Advanced CNN classifier with custom data augmentation
+
+3. Mixed-CNN classifier
+
+4. Variational Autoencoder, with conv layers for image generation.
+
+---
+
+**Recurrent Neural Networks**:
+
+1. [LSTM many-to-one forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_06_RNN_many2one.ipynb)
+
+2. LSTM many-to-many forecast model
+
+3. Multidimensional, LSTM many-to-many forecast model
+
+---
 
 ### WARNING:
 In this Notebook I will just skim through the main theoretical arguments related to Deep Learning. I will assume you already know of things like: dense/fully connected layers, gradient descent, dropout, regularization techniques, convolutional and pooling layers, autoencoders, ... you name it. It is mostly about models implementation, not about the theory behind them.
