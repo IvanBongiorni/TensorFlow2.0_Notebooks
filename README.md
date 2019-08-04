@@ -14,17 +14,17 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 **Basic feed forward stuff**:
 
-1. [Basic Classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
+1. [Basic Classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__00.01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
 
-2. [MiniBatch_Gradient_Descent](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_02_MiniBatch_Gradient_Descent.ipynb):  training a model with **Mini Batch Gradient Descent**.
+2. [MiniBatch_Gradient_Descent](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__00.02_MiniBatch_Gradient_Descent.ipynb):  training a model with **Mini Batch Gradient Descent**.
 
-3. [Save and Restore models](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_03_Save_and_Restore_models.ipynb):  how to train a model, save it, then restore it and keep training.
+3. [Save and Restore models](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__00.03_Save_and_Restore_models.ipynb):  how to train a model, save it, then restore it and keep training.
 
 ---
 
 **Autoencoders**:
 
-1. [Autoencoder for Dimensionality Reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_04_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
+1. [Autoencoder for Dimensionality Reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__02.01_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
 
 2. Denoising Autoencoder
 
@@ -34,7 +34,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 **Convolutional Neural Networks**:
 
-1. [basic CNN classfifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_05_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
+1. [basic CNN classfifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__03.01_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
 
 2. Advanced CNN classifier with custom data augmentation
 
@@ -46,7 +46,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 **Recurrent Neural Networks**:
 
-1. [LSTM many-to-one forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0_06_RNN_many2one.ipynb)
+1. [LSTM many-to-one forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__04.01_RNN_many2one.ipynb)
 
 2. LSTM many-to-many forecast model
 
