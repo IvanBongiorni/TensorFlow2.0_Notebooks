@@ -50,7 +50,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 2. LSTM many-to-many forecast model
 
-3. Multidimensional, LSTM many-to-many forecast model
+3. Multivariate LSTM regression
 
 ---
 
