@@ -48,7 +48,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 1. [LSTM many-to-one forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__04.01_RNN_many2one.ipynb)
 
-2. LSTM many-to-many forecast model
+2. [LSTM many-to-many forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__04.02_RNN_many2many.ipynb)
 
 3. Multivariate LSTM regression
 
@@ -63,10 +63,8 @@ In this Notebook I will just skim through the main theoretical arguments related
 
 - Early stopping
 - Dynamic Learning Rate
-- Regression tasks
 - Use the TensorBoard
 
-- RNN - many-to-many
 - RNN - multivariate regressor
 
 - Denoising Autoencoder
