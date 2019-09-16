@@ -28,13 +28,15 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 1. [Autoencoder for dimensionality reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__02.01_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
 
-2. Denoising Autoencoder.
+2. Denoising Autoencoder (see CNN section below).
+
+0. Recurrent Autoencoder (see RNN section below).
 
 ---
 
 **Convolutional Neural Networks**:
 
-1. [basic CNN classfifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__03.01_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
+1. [Basic CNN classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__03.01_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
 
 2. Advanced CNN classifier with custom data augmentation.
 
