@@ -20,15 +20,15 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 3. [Save and restore models](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__00.03_Save_and_Restore_models.ipynb):  how to train a model, save it, then restore it and keep training.
 
+0. Train a Neural Network with frozen layers
+
 ---
 
 **Autoencoders**:
 
 1. [Autoencoder for dimensionality reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__02.01_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
 
-2. Denoising Autoencoder
-
-3. (see the convolutional Variational Autoencoder below)
+2. Denoising Autoencoder.
 
 ---
 
@@ -36,11 +36,11 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 1. [basic CNN classfifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__03.01_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
 
-2. Advanced CNN classifier with custom data augmentation
+2. Advanced CNN classifier with custom data augmentation.
 
-3. Mixed-CNN classifier
+3. Mixed-CNN classifier.
 
-4. Variational Autoencoder, with conv layers for image generation.
+4. Denoising Autoencoder.
 
 ---
 
@@ -50,7 +50,11 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 2. [LSTM many-to-many forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__04.02_RNN_many2many.ipynb)
 
-3. Multivariate LSTM regression
+3. Multivariate LSTM regression.
+
+0. Recurrent Autoencoders.
+
+0. Seq2seq models.
 
 ---
 
@@ -61,12 +65,6 @@ In this Notebook I will just skim through the main theoretical arguments related
 
 ### Coming Soon:
 
-- Early stopping
-- Dynamic Learning Rate
-- Use the TensorBoard
-
 - RNN - multivariate regressor
-
 - Denoising Autoencoder
-- Variational Autoencoder
-
+- A lot of NLP stuff with RNNs
