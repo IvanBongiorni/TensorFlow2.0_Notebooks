@@ -8,7 +8,14 @@ Welcome to my TensorFlow 2.0 tutorial.
 Recently, Google released (the alpha version of) TensorFlow 2.0. As I'm trying to move from the 1.x and lern the new, I'll upload all my progresses on this repo.
 
 The training of models is based on TensorFlow's **eager execution** method. I'll try to minimize referencese to Keras.
+## Summary of Contents:
+- Basic feed forward stuff
+- Autoencoders
+- Convolutional Neural Networks
+- Recurrent Neural Networks
 
+---
+---
 
 ## Contents:
 
