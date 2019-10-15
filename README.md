@@ -3,9 +3,7 @@ Author: Ivan Bongiorni, Data Scientist at GfK; [LinkedIn](https://www.linkedin.c
 # TensorFlow 2.0 Tutorial
 
 
-
-Welcome to my TensorFlow 2.0 tutorial.
-Recently, Google released (the alpha version of) TensorFlow 2.0. As I'm trying to move from the 1.x and lern the new, I'll upload all my progresses on this repo.
+This is a collection of my Notebooks on TensorFlow 2.0
 
 The training of models is based on TensorFlow's **eager execution** method. I'll try to minimize referencese to Keras.
 ## Summary of Contents:
@@ -66,10 +64,6 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 0. Seq2seq models.
 
 ---
-
-### WARNING:
-In this Notebook I will just skim through the main theoretical arguments related to Deep Learning. I will assume you already know of things like: dense/fully connected layers, gradient descent, dropout, regularization techniques, convolutional and pooling layers, autoencoders, ... you name it. It is mostly about models implementation, not about the theory behind them.
-
 
 
 ### Coming Soon:
