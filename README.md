@@ -1,6 +1,6 @@
 Author: Ivan Bongiorni, Data Scientist at GfK; [LinkedIn](https://www.linkedin.com/in/ivan-bongiorni-b8a583164/).
 
-# TensorFlow 2.0 Tutorial
+# TensorFlow 2.0 Notebooks
 
 
 This is a collection of my Notebooks on TensorFlow 2.0
@@ -19,11 +19,11 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 **Basic feed forward stuff**:
 
-1. [Basic classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__00.01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
+1. [Basic classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2.0__00.01_basic_Classifier.ipynb):  implementation of a **feed forward Classifier** with simple, full-Batch Gradient Descent in **Eager execution**.
 
-2. [Mini batch gradient descent](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__00.02_MiniBatch_Gradient_Descent.ipynb):  training a model with **Mini Batch Gradient Descent**.
+2. [Mini batch gradient descent](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2.0__00.02_MiniBatch_Gradient_Descent.ipynb):  training a model with **Mini Batch Gradient Descent**.
 
-3. [Save and restore models](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__00.03_Save_and_Restore_models.ipynb):  how to train a model, save it, then restore it and keep training.
+3. [Save and restore models](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2.0__00.03_Save_and_Restore_models.ipynb):  how to train a model, save it, then restore it and keep training.
 
 0. Train a Neural Network with frozen layers
 
@@ -31,7 +31,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 **Autoencoders**:
 
-1. [Autoencoder for dimensionality reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__02.01_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
+1. [Autoencoder for dimensionality reduction](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2.0__02.01_Autoencoder_for_Dimensionality_Reduction.ipynb):  implementation of a stacked **Autoencoder for dimensionality reduction** of datasets.
 
 2. Denoising Autoencoder (see CNN section below).
 
@@ -41,7 +41,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 **Convolutional Neural Networks**:
 
-1. [Basic CNN classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__03.01_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
+1. [Basic CNN classifier](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2.0__03.01_Convolutional_Neural_Network.ipynb): a basic **Convolutional Neural Network** for multiclass classification.
 
 2. Advanced CNN classifier with custom data augmentation.
 
@@ -53,9 +53,9 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 **Recurrent Neural Networks**:
 
-1. [LSTM many-to-one forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__04.01_RNN_many2one.ipynb)
+1. [LSTM many-to-one forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2.0__04.01_RNN_many2one.ipynb)
 
-2. [LSTM many-to-many forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Tutorial/blob/master/TensorFlow2.0__04.02_RNN_many2many.ipynb)
+2. [LSTM many-to-many forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2.0__04.02_RNN_many2many.ipynb)
 
 3. Multivariate LSTM regression.
 
