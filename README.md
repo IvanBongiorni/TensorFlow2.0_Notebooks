@@ -63,6 +63,8 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 0. Seq2seq models.
 
+0. [Text generator](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy/blob/master/RNN_text_generator_00.ipynb) from [this repository of mine](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy).
+
 ---
 
 
