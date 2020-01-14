@@ -11,6 +11,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 - Autoencoders
 - Convolutional Neural Networks
 - Recurrent Neural Networks
+- Applications to NLP
 
 ---
 ---
@@ -63,13 +64,9 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 0. Seq2seq models.
 
-0. [Text generator](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy/blob/master/RNN_text_generator_00.ipynb) from [this repository of mine](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy).
-
 ---
 
+**RNN + Natural Language Processing**
 
-### Coming Soon:
+0. [Text generator](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy/blob/master/RNN_text_generator_00.ipynb) from [this repository of mine](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy).
 
-- RNN - multivariate regressor
-- Denoising Autoencoder
-- A lot of NLP stuff with RNNs
