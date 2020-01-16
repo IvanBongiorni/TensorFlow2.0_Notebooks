@@ -68,5 +68,5 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 **RNN + Natural Language Processing**
 
-1. [Text generator](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy/blob/master/RNN_text_generator_00.ipynb) from [this repository of mine](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy).
+1. LSTM [Text generator](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy/blob/master/RNN_text_generator_00.ipynb) from [this repository of mine](https://github.com/IvanBongiorni/TensorFlow2-RNN_text_generator-Dante_DivineComedy).
 
