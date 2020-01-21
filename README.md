@@ -58,9 +58,7 @@ The training of models is based on TensorFlow's **eager execution** method. I'll
 
 2. [LSTM many-to-many forecast model](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2.0__04.02_RNN_many2many.ipynb)
 
-3. Multivariate LSTM regression.
-
-0. Recurrent Autoencoders.
+3. [Multivariate LSTM regression](https://github.com/IvanBongiorni/TensorFlow2.0_Notebooks/blob/master/TensorFlow2__04.03_RNN_multivariate_regression.ipynb).
 
 0. Seq2seq models.
 
